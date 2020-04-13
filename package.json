@@ -2,7 +2,7 @@
   "name": "azachii-google-optimize-react",
   "version": "1.0.0",
   "description": "Usa facilmente Google Optimize en tu aplicación React",
-  "author": "Schorts99",
+  "author": "Azachii",
   "license": "MIT",
   "repository": "Schorts99/azachii-google-optimize-react",
   "main": "dist/index.js",

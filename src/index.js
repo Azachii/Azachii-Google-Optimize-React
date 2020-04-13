@@ -1,6 +1,9 @@
-import React from 'react'
-import styles from './styles.module.css'
+import GoogleOptimizeProvider from "./context/GoogleOptimizeContext";
+import Experiment from "./components/Experiment";
 
-export const ExampleComponent = ({ text }) => {
-  return <div className={styles.test}>Example Component: {text}</div>
-}
+export default {
+  GoogleOptimizeProvider,
+  Experiment
+};
+
+export { GoogleOptimizeProvider, Experiment };
